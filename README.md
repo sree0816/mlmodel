@@ -1,2 +1,2 @@
 # mlmodel
-a machinelearning model created with scikit-learn
+a machine learning model created with scikit-learn
